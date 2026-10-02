@@ -15,6 +15,6 @@ Founder & CEO of ANDI LLC. I build AI and automation systems for industrial dist
 - Based in Houston, TX
 
 ## Connect
-- LinkedIn: [add your URL]
+- LinkedIn: www.linkedin.com/in/peter-hory
 - Email: peter.hory@gmail.com
 

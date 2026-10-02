@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**peterhory/peterhory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Peter Hory
 
-Here are some ideas to get you started:
+Founder & CEO of ANDI LLC. I build AI and automation systems for industrial distributors, and I lead technology with a finance operator's discipline.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Agentic AI and workflow automation for procurement, finance, and warehouse operations
+- Intelligent document processing (IDP) for high-volume business documents
+- ERP and systems integration (SAP B1, Odoo, Xero)
+- Built an IT function from zero and ran it as the sole technology leader, with full budget, vendor, and security ownership
+
+## Background
+- 10+ years across finance, operations, and IT leadership in industrial distribution
+- Took an internal automation platform from idea to a commercial product adopted by multiple business units
+- Based in Houston, TX
+
+## Connect
+- LinkedIn: [add your URL]
+- Email: peter.hory@gmail.com
+
